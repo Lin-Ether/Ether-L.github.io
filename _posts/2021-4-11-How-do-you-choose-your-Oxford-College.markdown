@@ -7,7 +7,7 @@ tags: Application
 excerpt_separator: <!--more-->
 ---
 
-Oxford has more than 30 colleges which provide courses for undergraduate students. Hence, how to choose a college can be a tough question. <!--more-->Here I'm going to introduce some ways to help you choose your college.
+Oxford has more than 30 colleges which provide courses for undergraduate students. Hence, choosing a college can be a tough question. <!--more-->Here I'm going to introduce some ways to help you choose your college.
 
 ### Admit Rate
 
@@ -19,19 +19,19 @@ It is important for you to check the official website of the institute of your o
 
 ### Norrington Table
 
-[Norrington Table](https://en.wikipedia.org/wiki/Norrington_Table) is also another good resource which gives you a glimpse of the general ranking of Oxford colleges. However, since the factors are quite fixed, there is no need to rely too much on it.
+[Norrington Table](https://en.wikipedia.org/wiki/Norrington_Table) is also another good resource which gives a general ranking of the Oxford colleges each year. However, since the factors are quite fixed, there is no need to rely too much on it.
 
 ### Whatdotheyknow
 
-[Whatdotheyknow](https://www.whatdotheyknow.com/) is a website where you can make requests for the data from authorities. Hence, a lot of requests for Oxford admission statistics were made in the past including requests on spreadsheets such as average MAT score for offer holders in each college. These requests are archived and you can access to them by searching "Oxford" then key words. Also, you can make your own request if you cannot find the statistics you want. 
+[Whatdotheyknow](https://www.whatdotheyknow.com/) is a website where you can make requests for the data from authorities. Hence, a lot of requests for Oxford admission statistics were made in the past. This may include some helpful data such as the average MAT score of offer holders in each college. These requests are archived and you can access to them by searching "University of Oxford" then key words. Also, you can make your own request if you cannot find the statistics you want. 
 
-If you fail to open this website, you can download a VPN and locate yourself in a place other than Hong Kong.
+If you fail to load this website, you can download a VPN and locate yourself in a place other than Hong Kong.
 
-### Political Vibe
+### Political Scale
 
 ![Political Scale of each college](https://cdn.discordapp.com/attachments/806743365404196904/830690769878777856/image0.jpg "source: instagram@oxfordmemesociety")
 
-This picture is helpful if you want to know what the college political coordinate is like.
+This picture is helpful if you want to know the political scale in each college.
 
 ### Accommodation and Facilities
 
