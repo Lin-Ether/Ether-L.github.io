@@ -15,5 +15,12 @@ This investigation is mostly inspired by [a former one published on zhihu](https
 
 ### Questionnaire Design
 
-Since the preceding questionnaire was based on the [8values test](https://8values.github.io/), this investigation also adopts 8values test with a few changes made to it. These include some additions in background investigation, several rephrasings in the translation and 6 new questions, mostly selected from other political test websites, attached to the end of the questionnaire with no impact to the final algorithm.
+Since the preceding questionnaire was based on the [8values test](https://8values.github.io/), this investigation also adopts 8values test with a few changes made to it. These include some additions in background investigation, several rephrasings in the translation and 6 new questions, mostly selected from other political test websites, attached to the end of the questionnaire with no impact to the final algorithm. In the formal part of the questionnaire, each question is followed by 6 options, namely "Strongly Disagree", "Disagree", "Neutral", "Agree", "Strongly Agree" and "Unsure/Cannot understand".
 
+### Pretest
+
+16 participants, including 4 team members, were engaged in the pretest. 15 of them returned valid questionnaires. After the pretest, one of the question was rephrased due to its vagueness. The result was published on the [website](https://wzmsideology.hee.ink).
+
+### Posttest
+
+This part is ongoing and to be continued.
