@@ -29,7 +29,7 @@ If you fail to load this website, you can download a VPN and locate yourself in 
 
 ### Political Scale
 
-![Political Scale of each college](https://cdn.discordapp.com/attachments/806743365404196904/830690769878777856/image0.jpg "source: instagram@oxfordmemesociety")
+![Political Scale of each college]({{site.baseurl}}/assets/file/politiscale.jpg "source: instagram@oxfordmemesociety")
 
 This picture is helpful if you want to know the political scale in each college.
 
